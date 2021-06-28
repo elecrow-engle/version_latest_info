@@ -1,2 +1,2 @@
 # version_latest_info
-存放crowpi2版本的最新信息
+软件版本的最新信息
