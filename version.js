@@ -6,6 +6,7 @@
 	"laptop":
 	{
 		"version":"1.1"
+		"size":"1.18MB"	
 	}
 }
 
